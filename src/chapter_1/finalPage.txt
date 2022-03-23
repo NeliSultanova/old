@@ -1,0 +1,8 @@
+
+
+
+so far we learned git
+
+i know commit and push
+
+remote and local
